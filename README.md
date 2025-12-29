@@ -1,5 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>I’m building and managing my own ecosystem called Omnix Empire — where I handle websites, apps, databases, OTT apps, OSINT platforms, and more.<br>Everything is designed, developed, and managed solo.<br><br>👯 I’m looking to collaborate on<br><br>I’m open to any kind of collaboration — tech, projects, ideas, startups, content, or problem-solving.<br>Give me a clear plan, and I’ll execute it end-to-end.<br><br>🤝 I’m looking for help with<br><br>Nothing specific — but I enjoy answering questions, sharing knowledge, and helping others whenever needed.<br><br>🌱 I’m currently learning<br><br>I learn new skills daily, including:<br><br>Web technologies<br><br>OSINT & web research<br><br>SQL & databases<br><br>System & data analysis<br>Always exploring and upgrading myself.<br><br>💬 Ask me about<br><br>You can ask me about:<br><br>Data research & OSINT<br><br>Websites, bots & automation<br><br>Traffic management & protection<br><br>Cyber security basics & digital problem solving<br><br>Entertainment data (movies, TV channels, platforms)<br>I help people with their projects whenever I can.<br><br>⚡ Fun fact<br><br>I help everyone with their work — but when it’s my turn, I usually stand alone.
+# 💫 About Me
+
+### 🔭 I’m currently working on
+I’m building and managing **Omnix Empire**, a solo-operated ecosystem encompassing websites, apps, databases, OTT platforms, OSINT tools, and more. I handle design, development, and management end-to-end.
+
+### 👯 I’m looking to collaborate on
+I'm open to collaborations across **tech, startups, content, and problem-solving**. If you have a clear plan, I can help execute it.
+
+### 🌱 I’m currently learning
+I consistently upgrade my skills in:
+- Web Technologies
+- OSINT & Web Research
+- SQL & Databases
+- System & Data Analysis
+
+### 💬 Ask me about
+- Data Research & OSINT
+- Websites, Bots & Automation
+- Traffic Management & Cyber Security
+- Entertainment Data (Movies, TV Channels, Platforms)
+
+### ⚡ Fun fact
+I usually work alone to build everything, but I'm always ready to help others build their dreams.
 
 
 ## 🌐 Socials:
