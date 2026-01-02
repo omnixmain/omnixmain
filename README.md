@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MorinNoshike&label=PROFILE+VIEWS&color=00ff9c&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=omnixmain&label=PROFILE+VIEWS&color=00ff9c&style=flat" />
 
 </div>
 
@@ -103,7 +103,7 @@ My goal is to understand how platforms protect data so I can design
   
   ## 📊 GITHUB STATS
   
-</h2> <img src="https://github-stats-alpha.vercel.app/api?username=MorinNoshike&cc=000&tc=F8D866&ic=F8D866&bc=0D1117" alt="GitHub stats" /> <br/><br/> <br/><br/> <a href="https://github.com/MorinNoshike"> <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MorinNoshike&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"> </a> </div>
+</h2> <img src="https://github-stats-alpha.vercel.app/api?username=omnixmain&cc=000&tc=F8D866&ic=F8D866&bc=0D1117" alt="GitHub stats" /> <br/><br/> <br/><br/> <a href="https://github.com/omnixmain"> <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=omnixmain&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"> </a> </div>
 
 ---
 
