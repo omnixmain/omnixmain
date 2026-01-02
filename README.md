@@ -111,7 +111,7 @@ My goal is to understand how platforms protect data so I can design
 
 ## 📈 CONTRIBUTION GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MorinNoshike&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omnixmain&theme=react-dark" />
 
 </div>
 
