@@ -41,6 +41,55 @@
 
 <div align="center">
 
+## 👑 OMNIX EMPIRE ECOSYSTEM
+### The Architecture of Infinite Entertainment
+
+</div>
+
+<div align="center">
+
+**Founder & Lead Architect**  
+*Orchestrating the flow of 50,000+ Real-time Channels & 100+ High-Performance Servers*
+
+🚀 **Live Streaming Infrastructure** – Reverse-engineering premium streams for 99.9% uptime  
+📱 **Application Modding** – Customizing & hunting bugs in APKs for superior performance  
+🎥 **Massive Content Database** – Managing petabytes of Movies/OTT assets  
+🛡️ **Cyber Security** – Advanced web hunting & vulnerability patching  
+
+**"We Don't Just Stream. We Dominate."**
+
+<br/>
+
+<a href="https://omnixmain.github.io/OMNIX-EMPIRE/">
+  <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-OMNIX_EMPIRE-00ff9c?style=for-the-badge&logo=google-chrome&logoColor=black" height="35" />
+</a>
+
+<br/><br/>
+
+<h3>🚀 JOIN THE OFFICIAL NETWORK</h3>
+
+<a href="https://t.me/omnix_Empire">
+  <img src="https://img.shields.io/badge/HQ-UPDATES_&_ANNOUNCEMENTS-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<br/>
+<a href="https://t.me/omnix_ott">
+  <img src="https://img.shields.io/badge/MOVIES-OMNIX_OTT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://t.me/+ATsbVIXsATczNDk1">
+  <img src="https://img.shields.io/badge/WATCH-OMNIX_CINEWORLD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://t.me/+vAocHIblVIBhZDc9">
+  <img src="https://img.shields.io/badge/PRIVATE-OMNIX_ADULTS-red?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
 ## ⚡ TECH STACK
 
 <img src="https://skillicons.dev/icons?i=java,php,python,c,nodejs,mysql,git,linux,bash,postman,html,css,vscode,cloudflare&theme=dark" />
